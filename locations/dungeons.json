@@ -8,6 +8,72 @@
 				"name": "",
 				"sections": [
 					{
+						"ref": "Hoenn/Rusturf Tunnel/Item West"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rusturftunnel",
+						"x": 83,
+						"y": 48
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"ref": "Hoenn/Rusturf Tunnel/Item East"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rusturftunnel",
+						"x": 515,
+						"y": 62
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"ref": "Hoenn/Rusturf Tunnel/HM04 from Tunneler"
+					},
+					{
+						"ref": "Hoenn/Rusturf Tunnel/HM04 from Tunneler"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rusturftunnel",
+						"x": 402,
+						"y": 110
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
+						"ref": "Hoenn/Rusturf Tunnel/Recover Devon Goods"
+					},
+					{
+						"ref": "Hoenn/Rusturf Tunnel/Recover Devon Goods"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rusturftunnel",
+						"x": 259,
+						"y": 110
+					}
+				]
+			},
+			{
+				"name": "",
+				"sections": [
+					{
 						"ref": "Hoenn/Granite Cave/1F - HM05 from Hiker"
 					},
 					{

@@ -6,6 +6,12 @@
 		"img": "images/maps/hoennmap.png"
 	},
 	{
+		"name": "rusturftunnel",
+		"location_size": 24,
+		"location_border_thickness": 3,
+		"img": "images/maps/rusturftunnel.png"
+	},
+	{
 		"name": "granitecave",
 		"location_size": 24,
 		"location_border_thickness": 3,
