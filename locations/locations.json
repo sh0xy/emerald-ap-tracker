@@ -56,8 +56,11 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -83,9 +86,12 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries x 3",
+						"name": "Berries",
 						"access_rules": ["$can_cut"],
-						"visibility_rules": ["op_bry_on"]
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -178,8 +184,11 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -277,12 +286,18 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries Next to Flower Shop x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Next to Flower Shop",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above Pond x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Above Pond",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "TM09 from Boy",
@@ -416,14 +431,20 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries Behind Smashable Rock x 2",
+						"name": "Berries Behind Smashable Rock",
 						"access_rules": ["$meteorfalls_access,$can_rocksmash"],
-						"visibility_rules": ["op_bry_on"]
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries North Above Trainers x 3",
+						"name": "Berries North Above Trainers",
 						"access_rules": ["$can_surf"],
-						"visibility_rules": ["op_bry_on"]
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -511,9 +532,12 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries in Tree Maze x 4",
+						"name": "Berries in Tree Maze",
 						"access_rules": ["$can_cut"],
-						"visibility_rules": ["op_bry_on"]
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "Hidden Item in East",
@@ -621,8 +645,11 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries East on Ledge x 3",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries East on Ledge",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "TM05 from Roaring Man",
@@ -714,8 +741,11 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries North Near Fiery Path x 4",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries North Near Fiery Path",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -756,8 +786,11 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries North Near Mud Slope x 4",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries North Near Mud Slope",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "Secret Power from Man Near Tree",
@@ -947,8 +980,11 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Below Day Care x 3",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Below Day Care",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -1587,8 +1623,11 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries x 3",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 
 				],
@@ -1620,9 +1659,12 @@
 						"access_rules": ["[$hid],$can_surf"]
 					},
 					{
-						"name": "Berries x 2",
+						"name": "Berries",
 						"visibility_rules": ["op_bry_on"],
-						"access_rules": ["$can_surf"]
+						"access_rules": ["$can_surf"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "Good Rod from Fisherman",
@@ -1719,21 +1761,30 @@
 						"access_rules": ["$rt119_south_access", "$rt121_access"]
 					},
 					{
-						"name": "Berries Unterneath South Bridge x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Unterneath South Bridge",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above North Waterfall x 2",
+						"name": "Berries Above North Waterfall",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": [
 							"$rt119_south_access,$can_waterfall,acrobike",
 							"$rt121_access,$can_waterfall,acrobike"
-						]
+						],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Near Fortee City x 3",
+						"name": "Berries Near Fortee City",
 						"visibility_rules": ["op_bry_on"],
-						"access_rules": ["$rt119_south_access", "$rt121_access"]
+						"access_rules": ["$rt119_south_access", "$rt121_access"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "HM02 from Rival Battle",
@@ -1862,17 +1913,26 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Near North Puddles x 3",
+						"name": "Berries Near North Puddles",
 						"visibility_rules": ["op_bry_on"],
-						"access_rules": ["$can_cut"]
+						"access_rules": ["$can_cut"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above Southwest Pool x 4",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Above Southwest Pool",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Near Southwest Lady x 3",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Near Southwest Lady",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "Devon Scope from Steven",
@@ -1987,12 +2047,18 @@
 						"access_rules": ["[$hid],$can_cut"]
 					},
 					{
-						"name": "Berries - West x 4",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries - West",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries - East x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries - East",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
@@ -2163,12 +2229,18 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Near Mt. Pyre Passage x 3",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Near Mt. Pyre Passage",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Before North Path Ledges x 2",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Before North Path Ledges",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
 						"name": "TM19 from Girl near Berries",
@@ -2197,8 +2269,11 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries Near House x 12",
-						"visibility_rules": ["op_bry_on"]
+						"name": "Berries Near House",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 12,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
 					}
 				],
 				"map_locations": [
