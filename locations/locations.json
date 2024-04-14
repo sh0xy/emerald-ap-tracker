@@ -54,6 +54,10 @@
 					{
 						"name": "Item",
 						"visibility_rules": ["op_ovw_on"]
+					},
+					{
+						"name": "Berries x 2",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -77,6 +81,11 @@
 						"name": "Item in Tree Maze",
 						"access_rules": ["$can_cut"],
 						"visibility_rules": ["op_ovw_on"]
+					},
+					{
+						"name": "Berries x 3",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -167,6 +176,10 @@
 						"name": "Hidden Item on Beach 3",
 						"access_rules": ["[$hid]"],
 						"visibility_rules": ["op_hid_on"]
+					},
+					{
+						"name": "Berries x 2",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -262,6 +275,14 @@
 						"name": "Hidden Item Behind Flower Shop 2",
 						"access_rules": ["[$hid]"],
 						"visibility_rules": ["op_hid_on"]
+					},
+					{
+						"name": "Berries Next to Flower Shop x 2",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries Above Pond x 2",
+						"visibility_rules": ["op_bry_on"]
 					},
 					{
 						"name": "TM09 from Boy",
@@ -393,6 +414,16 @@
 						"name": "Hidden Item Behind Trainer on Beach",
 						"access_rules": ["[$hid],$rt115_beach_access"],
 						"visibility_rules": ["op_hid_on"]
+					},
+					{
+						"name": "Berries Behind Smashable Rock x 2",
+						"access_rules": ["$meteorfalls_access,$can_rocksmash"],
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries North Above Trainers x 3",
+						"access_rules": ["$can_surf"],
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -478,6 +509,11 @@
 						"name": "Hidden Item in Tree Maze",
 						"access_rules": ["[$hid],$can_cut"],
 						"visibility_rules": ["op_hid_on"]
+					},
+					{
+						"name": "Berries in Tree Maze x 4",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"]
 					},
 					{
 						"name": "Hidden Item in East",
@@ -585,6 +621,10 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
+						"name": "Berries East on Ledge x 3",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
 						"name": "TM05 from Roaring Man",
 						"visibility_rules": ["op_npc_on"]
 					},
@@ -672,6 +712,10 @@
 						"name": "Item on Ledges",
 						"access_rules": ["$lavaridge_access"],
 						"visibility_rules": ["op_ovw_on"]
+					},
+					{
+						"name": "Berries North Near Fiery Path x 4",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -710,6 +754,10 @@
 						"name": "Hidden Item Desert on Rock 2",
 						"access_rules": ["[$hid],gogoggles"],
 						"visibility_rules": ["op_hid_on"]
+					},
+					{
+						"name": "Berries North Near Mud Slope x 4",
+						"visibility_rules": ["op_bry_on"]
 					},
 					{
 						"name": "Secret Power from Man Near Tree",
@@ -897,6 +945,10 @@
 						"name": "Hidden Item Behind Flower Patch",
 						"visibility_rules": ["op_hid_on"],
 						"access_rules": ["[$hid]"]
+					},
+					{
+						"name": "Berries Below Day Care x 3",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -1533,7 +1585,12 @@
 						"name": "Hidden Item Behind Two Trainers",
 						"visibility_rules": ["op_hid_on"],
 						"access_rules": ["[$hid]"]
+					},
+					{
+						"name": "Berries x 3",
+						"visibility_rules": ["op_bry_on"]
 					}
+
 				],
 				"map_locations": [
 					{
@@ -1561,6 +1618,11 @@
 						"name": "Hidden Item East on Rock",
 						"visibility_rules": ["op_hid_on"],
 						"access_rules": ["[$hid],$can_surf"]
+					},
+					{
+						"name": "Berries x 2",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$can_surf"]
 					},
 					{
 						"name": "Good Rod from Fisherman",
@@ -1654,6 +1716,23 @@
 					{
 						"name": "Item on River Bank",
 						"visibility_rules": ["op_ovw_on"],
+						"access_rules": ["$rt119_south_access", "$rt121_access"]
+					},
+					{
+						"name": "Berries Unterneath South Bridge x 2",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries Above North Waterfall x 2",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": [
+							"$rt119_south_access,$can_waterfall,acrobike",
+							"$rt121_access,$can_waterfall,acrobike"
+						]
+					},
+					{
+						"name": "Berries Near Fortee City x 3",
+						"visibility_rules": ["op_bry_on"],
 						"access_rules": ["$rt119_south_access", "$rt121_access"]
 					},
 					{
@@ -1783,6 +1862,19 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
+						"name": "Berries Near North Puddles x 3",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$can_cut"]
+					},
+					{
+						"name": "Berries Above Southwest Pool x 4",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries Near Southwest Lady x 3",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
 						"name": "Devon Scope from Steven",
 						"visibility_rules": ["op_ki_on"]
 					},
@@ -1893,6 +1985,14 @@
 						"name": "Hidden Item Behind Tree",
 						"visibility_rules": ["op_hid_on"],
 						"access_rules": ["[$hid],$can_cut"]
+					},
+					{
+						"name": "Berries - West x 4",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries - East x 2",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [
@@ -2063,6 +2163,14 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
+						"name": "Berries Near Mt. Pyre Passage x 3",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
+						"name": "Berries Before North Path Ledges x 2",
+						"visibility_rules": ["op_bry_on"]
+					},
+					{
 						"name": "TM19 from Girl near Berries",
 						"visibility_rules": ["op_npc_on"]
 					}
@@ -2087,6 +2195,10 @@
 					{
 						"name": "Item Below Ledges",
 						"visibility_rules": ["op_ovw_on"]
+					},
+					{
+						"name": "Berries Near House x 12",
+						"visibility_rules": ["op_bry_on"]
 					}
 				],
 				"map_locations": [

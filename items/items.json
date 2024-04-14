@@ -669,6 +669,26 @@
 		]
 	},
 	{
+		"name": "Randomize Berries",
+		"type": "progressive",
+		"loop": true,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"img": "images/settings/berries_off.png",
+				"name": "Randomize Berries - Off",
+				"codes": "op_bry,op_bry_off",
+				"inherit_codes": false
+			},
+			{
+				"img": "images/settings/berries_on.png",
+				"name": "Randomize Berries - On",
+				"codes": "op_bry,op_bry_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
 		"name": "Require Itemfinder",
 		"type": "progressive",
 		"loop": true,

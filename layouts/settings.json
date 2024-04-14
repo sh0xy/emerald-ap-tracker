@@ -33,7 +33,8 @@
 								"op_hid",
 								"op_npc",
 								"op_bik",
-								"op_rod"
+								"op_rod",
+								"op_bry"
 							],
 							[
 								"op_if",
