@@ -27,8 +27,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 44,
-						"y": 108
+						"x": 137,
+						"y": 336
 					}
 				]
 			},
@@ -43,8 +43,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 44,
-						"y": 92
+						"x": 137,
+						"y": 286
 					}
 				]
 			},
@@ -59,8 +59,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 32,
-						"y": 92
+						"x": 100,
+						"y": 286
 					}
 				]
 			},
@@ -82,8 +82,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 60,
-						"y": 84
+						"x": 187,
+						"y": 261
 					}
 				]
 			},
@@ -141,8 +141,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 20,
-						"y": 92
+						"x": 62,
+						"y": 286
 					}
 				]
 			},
@@ -172,8 +172,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 92
+						"x": 37,
+						"y": 286
 					}
 				]
 			},
@@ -231,8 +231,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 84
+						"x": 37,
+						"y": 261
 					}
 				]
 			},
@@ -284,8 +284,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 76
+						"x": 37,
+						"y": 236
 					}
 				]
 			},
@@ -352,8 +352,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 64
+						"x": 37,
+						"y": 199
 					}
 				]
 			},
@@ -398,8 +398,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 52
+						"x": 37,
+						"y": 162
 					}
 				]
 			},
@@ -443,8 +443,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 40
+						"x": 37,
+						"y": 124
 					}
 				]
 			},
@@ -493,8 +493,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 24,
-						"y": 60
+						"x": 75,
+						"y": 187
 					}
 				]
 			},
@@ -534,8 +534,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 36,
-						"y": 60
+						"x": 112,
+						"y": 187
 					}
 				]
 			},
@@ -551,8 +551,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 44,
-						"y": 68
+						"x": 137,
+						"y": 211
 					}
 				]
 			},
@@ -596,8 +596,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 20,
-						"y": 28
+						"x": 62,
+						"y": 87
 					}
 				]
 			},
@@ -619,8 +619,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 36,
-						"y": 20
+						"x": 112,
+						"y": 62
 					}
 				]
 			},
@@ -659,8 +659,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 52,
-						"y": 20
+						"x": 162,
+						"y": 62
 					}
 				]
 			},
@@ -677,8 +677,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 68,
-						"y": 44
+						"x": 211,
+						"y": 137
 					}
 				]
 			},
@@ -719,8 +719,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 28
+						"x": 236,
+						"y": 87
 					}
 				]
 			},
@@ -763,8 +763,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 52,
-						"y": 44
+						"x": 162,
+						"y": 137
 					}
 				]
 			},
@@ -785,8 +785,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 60,
-						"y": 28
+						"x": 187,
+						"y": 87
 					}
 				]
 			},
@@ -852,8 +852,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 60,
-						"y": 36
+						"x": 187,
+						"y": 112
 					}
 				]
 			},
@@ -875,8 +875,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 68,
-						"y": 36
+						"x": 211,
+						"y": 112
 					}
 				]
 			},
@@ -902,8 +902,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 60,
-						"y": 68
+						"x": 187,
+						"y": 211
 					}
 				]
 			},
@@ -976,8 +976,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 68
+						"x": 236,
+						"y": 211
 					}
 				]
 			},
@@ -1009,8 +1009,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 84,
-						"y": 68
+						"x": 261,
+						"y": 211
 					}
 				]
 			},
@@ -1035,8 +1035,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 54
+						"x": 236,
+						"y": 168
 					}
 				]
 			},
@@ -1062,8 +1062,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 12,
-						"y": 108
+						"x": 37,
+						"y": 336
 					}
 				]
 			},
@@ -1095,8 +1095,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 20,
-						"y": 124
+						"x": 62,
+						"y": 386
 					}
 				]
 			},
@@ -1156,8 +1156,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 20,
-						"y": 132
+						"x": 62,
+						"y": 411
 					}
 				]
 			},
@@ -1200,8 +1200,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 28,
-						"y": 132
+						"x": 87,
+						"y": 411
 					}
 				]
 			},
@@ -1313,8 +1313,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 56,
-						"y": 124
+						"x": 174,
+						"y": 386
 					}
 				]
 			},
@@ -1335,8 +1335,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 56,
-						"y": 132
+						"x": 174,
+						"y": 411
 					}
 				]
 			},
@@ -1397,8 +1397,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 124
+						"x": 236,
+						"y": 386
 					}
 				]
 			},
@@ -1452,8 +1452,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 104
+						"x": 236,
+						"y": 323
 					}
 				]
 			},
@@ -1478,13 +1478,13 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 84,
-						"y": 104
+						"x": 261,
+						"y": 323
 					},
 					{
 						"map": "hoennmap",
-						"x": 160,
-						"y": 52
+						"x": 498,
+						"y": 162
 					}
 				]
 			},
@@ -1538,8 +1538,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 76,
-						"y": 84
+						"x": 236,
+						"y": 261
 					}
 				]
 			},
@@ -1577,8 +1577,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 100,
-						"y": 68
+						"x": 311,
+						"y": 211
 					}
 				]
 			},
@@ -1671,8 +1671,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 100,
-						"y": 52
+						"x": 311,
+						"y": 162
 					}
 				]
 			},
@@ -1688,8 +1688,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 100,
-						"y": 36
+						"x": 311,
+						"y": 112
 					}
 				]
 			},
@@ -1726,8 +1726,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 108,
-						"y": 20
+						"x": 336,
+						"y": 62
 					}
 				]
 			},
@@ -1795,8 +1795,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 116,
-						"y": 36
+						"x": 361,
+						"y": 112
 					}
 				]
 			},
@@ -1853,8 +1853,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 140,
-						"y": 36
+						"x": 435,
+						"y": 112
 					}
 				]
 			},
@@ -1898,8 +1898,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 140,
-						"y": 44
+						"x": 435,
+						"y": 137
 					}
 				]
 			},
@@ -1943,8 +1943,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 160,
-						"y": 44
+						"x": 498,
+						"y": 137
 					}
 				]
 			},
@@ -2017,8 +2017,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 140,
-						"y": 56
+						"x": 435,
+						"y": 174
 					}
 				]
 			},
@@ -2070,8 +2070,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 132,
-						"y": 68
+						"x": 411,
+						"y": 211
 					}
 				]
 			},
@@ -2092,8 +2092,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 116,
-						"y": 68
+						"x": 361,
+						"y": 211
 					}
 				]
 			},
@@ -2126,8 +2126,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 172,
-						"y": 36
+						"x": 535,
+						"y": 112
 					}
 				]
 			},
@@ -2189,8 +2189,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 180,
-						"y": 44
+						"x": 560,
+						"y": 137
 					}
 				]
 			},
@@ -2247,8 +2247,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 180,
-						"y": 60
+						"x": 560,
+						"y": 187
 					}
 				]
 			},
@@ -2291,8 +2291,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 180,
-						"y": 76
+						"x": 560,
+						"y": 236
 					}
 				]
 			},
@@ -2308,8 +2308,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 208,
-						"y": 44
+						"x": 647,
+						"y": 137
 					}
 				]
 			},
@@ -2347,8 +2347,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 208,
-						"y": 36
+						"x": 647,
+						"y": 112
 					}
 				]
 			},
@@ -2409,8 +2409,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 208,
-						"y": 60
+						"x": 647,
+						"y": 187
 					}
 				]
 			},
@@ -2455,8 +2455,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 208,
-						"y": 76
+						"x": 647,
+						"y": 236
 					}
 				]
 			},
@@ -2493,8 +2493,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 208,
-						"y": 92
+						"x": 647,
+						"y": 286
 					}
 				]
 			},
@@ -2514,8 +2514,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 196,
-						"y": 92
+						"x": 610,
+						"y": 286
 					}
 				]
 			},
@@ -2526,8 +2526,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 200,
-						"y": 100
+						"x": 622,
+						"y": 311
 					}
 				]
 			},
@@ -2538,8 +2538,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 184,
-						"y": 100
+						"x": 572,
+						"y": 311
 					}
 				]
 			},
@@ -2550,8 +2550,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 168,
-						"y": 100
+						"x": 522,
+						"y": 311
 					}
 				]
 			},
@@ -2567,8 +2567,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 172,
-						"y": 92
+						"x": 535,
+						"y": 286
 					}
 				]
 			},
@@ -2588,8 +2588,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 94,
-						"y": 100
+						"x": 292,
+						"y": 311
 					}
 				]
 			},
@@ -2613,8 +2613,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 112,
-						"y": 100
+						"x": 348,
+						"y": 311
 					}
 				]
 			},
@@ -2634,8 +2634,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 130,
-						"y": 100
+						"x": 404,
+						"y": 311
 					}
 				]
 			},
@@ -2655,8 +2655,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 148,
-						"y": 100
+						"x": 460,
+						"y": 311
 					}
 				]
 			},
@@ -2707,8 +2707,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 228,
-						"y": 92
+						"x": 709,
+						"y": 286
 					}
 				]
 			},
@@ -2724,8 +2724,8 @@
 				"map_locations": [
 					{
 						"map": "hoennmap",
-						"x": 228,
-						"y": 84
+						"x": 709,
+						"y": 261
 					}
 				]
 			}
