@@ -1763,6 +1763,7 @@
 					{
 						"name": "Berries Unterneath South Bridge",
 						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$rt119_south_access", "$rt121_access"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
