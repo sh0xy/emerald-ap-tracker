@@ -56,7 +56,14 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries",
+						"name": "Berry Tree - Oran",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pecha",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -86,7 +93,23 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries",
+						"name": "Berry Tree - Cheri 1",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Cheri 2",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Leppa",
 						"access_rules": ["$can_cut"],
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 3,
@@ -184,7 +207,14 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries",
+						"name": "Berry Tree - Oran",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pecha",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -286,14 +316,28 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries Next to Flower Shop",
+						"name": "Berry Tree Next to Flower Shop - Oran",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above Pond",
+						"name": "Berry Tree Next to Flower Shop - Cheri",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Above Pond - Cheri",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Above Pond - Leppa",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -431,18 +475,42 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries Behind Smashable Rock",
+						"name": "Berry Tree Behind Smashable Rock - Bluk 1",
 						"access_rules": ["$meteorfalls_access,$can_rocksmash"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Behind Smashable Rock - Bluk 2",
+						"access_rules": ["$meteorfalls_access,$can_rocksmash"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree North Above Trainers - Kelpsy 1",
+						"access_rules": ["$can_surf"],
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries North Above Trainers",
+						"name": "Berry Tree North Above Trainers - Kelpsy 2",
 						"access_rules": ["$can_surf"],
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 3,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree North Above Trainers - Kelpsy 3",
+						"access_rules": ["$can_surf"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					}
@@ -532,10 +600,34 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries in Tree Maze",
+						"name": "Berry Tree in Tree Maze - Chesto 1",
 						"access_rules": ["$can_cut"],
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 4,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree in Tree Maze - Chesto 2",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree in Tree Maze - Pinap 1",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree in Tree Maze - Pinap 2",
+						"access_rules": ["$can_cut"],
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
@@ -645,9 +737,23 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries East on Ledge",
+						"name": "Berry Tree East on Ledge - Persim 1",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 3,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree East on Ledge - Persim 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree East on Ledge - Persim 3",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
@@ -741,7 +847,28 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries North Near Fiery Path",
+						"name": "Berry Tree North Near Fiery Path - Pecha 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree North Near Fiery Path - Pecha 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree North Near Fiery Path - Rawst 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 4,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree North Near Fiery Path - Rawst 2",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 4,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -786,9 +913,30 @@
 						"visibility_rules": ["op_hid_on"]
 					},
 					{
-						"name": "Berries North Near Mud Slope",
+						"name": "Berry Tree Near Northern Mud Slope - Oran 1",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 4,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Northern Mud Slope - Oran 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Northern Mud Slope - Razz 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Northern Mud Slope - Razz 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
@@ -980,7 +1128,21 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Below Day Care",
+						"name": "Berry Tree Below Day Care - Wepear 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Below Day Care - Wepear 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Below Day Care - Wepear 3",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -1623,7 +1785,21 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries",
+						"name": "Berry Tree - Nanab 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Nanab 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Nanab 3",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -1659,7 +1835,15 @@
 						"access_rules": ["[$hid],$can_surf"]
 					},
 					{
-						"name": "Berries",
+						"name": "Berry Tree - Sitrus 1",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$can_surf"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Sitrus 2",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": ["$can_surf"],
 						"item_count": 2,
@@ -1761,7 +1945,7 @@
 						"access_rules": ["$rt119_south_access", "$rt121_access"]
 					},
 					{
-						"name": "Berries Unterneath South Bridge",
+						"name": "Berry Tree Unterneath South Bridge - Sitrus",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": ["$rt119_south_access", "$rt121_access"],
 						"item_count": 2,
@@ -1769,7 +1953,15 @@
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above North Waterfall",
+						"name": "Berry Tree Unterneath South Bridge - Leppa",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$rt119_south_access", "$rt121_access"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Above North Waterfall - Hondew 1",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": [
 							"$rt119_south_access,$can_waterfall,acrobike",
@@ -1780,10 +1972,37 @@
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Near Fortee City",
+						"name": "Berry Tree Above North Waterfall - Hondew 2",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": [
+							"$rt119_south_access,$can_waterfall,acrobike",
+							"$rt121_access,$can_waterfall,acrobike"
+						],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Fortee City - Pomeg 1",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": ["$rt119_south_access", "$rt121_access"],
-						"item_count": 3,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Fortee City - Pomeg 2",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$rt119_south_access", "$rt121_access"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Fortee City - Pomeg 3",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$rt119_south_access", "$rt121_access"],
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
@@ -1914,22 +2133,73 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Near North Puddles",
+						"name": "Berry Tree Behind Tree - Aspear 1",
 						"visibility_rules": ["op_bry_on"],
 						"access_rules": ["$can_cut"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Behind Tree - Aspear 2",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$can_cut"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Behind Tree - Aspear 3",
+						"visibility_rules": ["op_bry_on"],
+						"access_rules": ["$can_cut"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Above Southwest Pool - Nanab",
+						"visibility_rules": ["op_bry_on"],
 						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Above Southwest Pool",
+						"name": "Berry Tree Above Southwest Pool - Pinap",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 4,
+						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Near Southwest Lady",
+						"name": "Berry Tree Above Southwest Pool - Wepear",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Above Southwest Pool - Razz",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Southwest Lady - Pecha 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Southwest Lady - Pecha 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Southwest Lady - Pecha 3",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -2048,16 +2318,44 @@
 						"access_rules": ["[$hid],$can_cut"]
 					},
 					{
-						"name": "Berries - West",
+						"name": "Berry Tree West - Aspear",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 4,
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries - East",
+						"name": "Berry Tree West - Chesto",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree West - Persim",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree West - Rawst",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree East - Nanab 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree East - Nanab 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 3,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					}
@@ -2230,14 +2528,35 @@
 						"access_rules": ["[$hid]"]
 					},
 					{
-						"name": "Berries Near Mt. Pyre Passage",
+						"name": "Berry Tree Near Rt. 122 - Pecha",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 3,
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					},
 					{
-						"name": "Berries Before North Path Ledges",
+						"name": "Berry Tree Near Rt. 122 - Rawst",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Near Rt. 122 - Sitrus",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Before North Path Ledges - Leppa 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree Before North Path Ledges - Leppa 2",
 						"visibility_rules": ["op_bry_on"],
 						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
@@ -2270,9 +2589,86 @@
 						"visibility_rules": ["op_ovw_on"]
 					},
 					{
-						"name": "Berries Near House",
+						"name": "Berry Tree - Grepa 1",
 						"visibility_rules": ["op_bry_on"],
-						"item_count": 12,
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Grepa 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Grepa 3",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Grepa 4",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pomeg 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pomeg 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pomeg 3",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Pomeg 4",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Qualot 1",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Qualot 2",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Qualot 3",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					},
+					{
+						"name": "Berry Tree - Qualot 4",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 2,
 						"chest_unopened_img": "/images/items/berry.png",
 						"chest_opened_img": "/images/items/berry_taken.png"
 					}
@@ -2722,7 +3118,15 @@
 			{
 				"name": "Route 130",
 				"access_rules": ["$rt124_access"],
-				"sections": [],
+				"sections": [
+					{
+						"name": "Mirage Island - Berry Tree - Liechi",
+						"visibility_rules": ["op_bry_on"],
+						"item_count": 1,
+						"chest_unopened_img": "/images/items/berry.png",
+						"chest_opened_img": "/images/items/berry_taken.png"
+					}
+				],
 				"map_locations": [
 					{
 						"map": "hoennmap",
